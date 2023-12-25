@@ -1,0 +1,26 @@
+module au(
+  input au_en,
+  input [3:0] ac,
+  input signed [7:0] a, b,  
+  output reg signed [7:0] t,
+  output reg gf
+);
+
+always @* begin
+  if (au_en) begin
+    case (ac)
+      4'b1000: t = a + b;
+      4'b1001: begin
+                 t = b - a;
+                 gf = (b > a);
+               end
+      4'b0100, 4'b0101, 4'b1101: t = a;
+      default: t = 8'hZZ;
+    endcase
+  end else begin
+    t = 8'hZZ;
+    gf = 1'b0; 
+  end
+end
+
+endmodule

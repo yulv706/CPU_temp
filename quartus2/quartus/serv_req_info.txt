@@ -1,0 +1,66 @@
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>ATCL</sub_system>
+	<file>/quartus/ccl/atcl/atcl_root.cpp</file>
+	<line>334</line>
+	<callstack>
+	0x028a2225: CCL_ERR + 0x2225 (?err_report_internal_error@@YIXPBD00H@Z + 0x15)
+	0x00deef4b: ccl_atcl + 0xef4b (?atcl_create_interpreter@@YAPAUTcl_Interp@@XZ + 0x13b)
+	0x635b8d8d: mfc90 + 0x58d8d
+	0x635c6ec2: mfc90 + 0x66ec2
+	0x0137191c: ccl_thr + 0x191c (thr_thread_var_get + 0xc)
+	0x00dff19d: ccl_atcl + 0x1f19d (?atcl_get_interpreter@@YAPAUTcl_Interp@@XZ + 0x1d)
+	0x01702bd3: prj_conw + 0x2bd3 (?OnCreate@CONW_WND@@IAEHPAUtagCREATESTRUCTA@@@Z + 0x143)
+	0x635bbc30: mfc90 + 0x5bc30
+	</callstack>
+	<error>    D:/����/quartus2/quartus/bin/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/lib/tcl8.4 D:/下载/quartus2/quartus/library D:/下载/quartus2/library D:/下载/quartus2/tcl8.4.11/library D:/下载/tcl8.4.11/library
+
+
+
+This probably means that Tcl wasn&apos;t installed properly.
+</error>
+	<date>Wed Nov 15 10:32:29 2023</date>
+	<version>Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition</version>
+	<full_error>Error: &quot;ATCL&quot;: Can&apos;t find a usable init.tcl in the following directories: 
+    D:/����/quartus2/quartus/bin/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/lib/tcl8.4 D:/下载/quartus2/quartus/library D:/下载/quartus2/library D:/下载/quartus2/tcl8.4.11/library D:/下载/tcl8.4.11/library
+
+
+
+This probably means that Tcl wasn&apos;t installed properly.
+
+Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>ATCL</sub_system>
+	<file>/quartus/ccl/atcl/atcl_root.cpp</file>
+	<line>334</line>
+	<callstack>
+	0x02682225: CCL_ERR + 0x2225 (?err_report_internal_error@@YIXPBD00H@Z + 0x15)
+	0x00daef4b: ccl_atcl + 0xef4b (?atcl_create_interpreter@@YAPAUTcl_Interp@@XZ + 0x13b)
+	0x635b8d8d: mfc90 + 0x58d8d
+	0x635c6ec2: mfc90 + 0x66ec2
+	0x0128191c: ccl_thr + 0x191c (thr_thread_var_get + 0xc)
+	0x00dbf19d: ccl_atcl + 0x1f19d (?atcl_get_interpreter@@YAPAUTcl_Interp@@XZ + 0x1d)
+	0x01a02bd3: prj_conw + 0x2bd3 (?OnCreate@CONW_WND@@IAEHPAUtagCREATESTRUCTA@@@Z + 0x143)
+	0x635bbc30: mfc90 + 0x5bc30
+	</callstack>
+	<error>    D:/����/quartus2/quartus/bin/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/lib/tcl8.4 D:/下载/quartus2/quartus/library D:/下载/quartus2/library D:/下载/quartus2/tcl8.4.11/library D:/下载/tcl8.4.11/library
+
+
+
+This probably means that Tcl wasn&apos;t installed properly.
+</error>
+	<date>Wed Nov 15 10:34:27 2023</date>
+	<version>Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition</version>
+	<full_error>Error: &quot;ATCL&quot;: Can&apos;t find a usable init.tcl in the following directories: 
+    D:/����/quartus2/quartus/bin/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/quartus/lib/tcl8.4 D:/下载/quartus2/lib/tcl8.4 D:/下载/quartus2/quartus/library D:/下载/quartus2/library D:/下载/quartus2/tcl8.4.11/library D:/下载/tcl8.4.11/library
+
+
+
+This probably means that Tcl wasn&apos;t installed properly.
+
+Quartus II Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition </full_error>
+</internal_error>
+

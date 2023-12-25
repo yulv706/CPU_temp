@@ -1,0 +1,7 @@
+# .sopc_builder configuration file: 
+sopc_builder = "c:/users/a/desktop/cpu_temp/quartus2/quartus/sopc_builder";
+sopc_legacy_dir = "";
+sopc_cygwin_dir = "c:/users/a/desktop/cpu_temp/quartus2/quartus/bin/cygwin";
+sopc_quartus_dir = "c:/users/a/desktop/cpu_temp/quartus2/quartus";
+sopc_modelsim_dir = "";
+sopc_ui_debug = "0";

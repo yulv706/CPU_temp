@@ -1,0 +1,2 @@
+[]
+Altera SOPC Builder = "c:/users/a/desktop/cpu_temp/quartus2/quartus/bin/perl/bin/perl" -x "c:/users/a/desktop/cpu_temp/quartus2/quartus/sopc_builder/bin/sopc_builder" %f "-dc:/users/a/desktop/cpu_temp/quartus2/quartus/sopc_builder" %o %h<INFO><ALIAS SELECTABLE="YES">Altera SOPC Builder 2.6</ALIAS><ALIAS SELECTABLE="YES">Altera SOPC Builder 2.7</ALIAS><ALIAS SELECTABLE="YES">Altera SOPC Builder 2.8</ALIAS><LANGUAGES AHDL="OFF"/></INFO>

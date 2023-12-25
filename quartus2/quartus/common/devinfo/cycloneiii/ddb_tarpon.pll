@@ -1,0 +1,7 @@
+include "ddb_tarpon_basic.pll"
+include "ddb_tarpon_fake1.pll"
+include "ddb_tarpon1.pll"
+include "ddb_tarpon1_v1.pll"
+include "ddb_tarpon2.pll"
+include "ddb_tarpon2_v1.pll"
+include "ddb_tarpon_patch.pll"
